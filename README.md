@@ -1,6 +1,6 @@
 # Angular Components
 
-This is an agular application I built in order to learn how to use multiple components in an application and nest them.
+This is an agular application I built in order to learn how to use multiple components and nest them.
 The components are separated in different modules, which are imported in the router file in order to switch between pages.
 
 # Production server
