@@ -1,15 +1,17 @@
 # Angular Components
 
-This is an agular application I built in order to learn how to use multiple components and nest them.
-The components are separated in different modules, which are imported in the router file in order to switch between pages.
+This project was generated with Angular CLI version 13.2.5 and is used for learning purposes of the following topics:
 
-# Production server
+reusable components
+parent-child communication
+modules, exporting / importing components
+shared modules
+routers
+lazy loading
+
+# Live production server
 
 https://comps-otiliavod.vercel.app/
-
-# Comps
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
 
