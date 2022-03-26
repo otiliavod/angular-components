@@ -2,12 +2,12 @@
 
 This project was generated with Angular CLI version 13.2.5 and is used for learning purposes of the following topics:
 
-reusable components
-parent-child communication
-modules, exporting / importing components
-shared modules
-routers
-lazy loading
+* reusable components
+* parent-child communication
+* modules, exporting / importing components
+* shared modules
+* routers
+* lazy loading
 
 # Live production server
 
